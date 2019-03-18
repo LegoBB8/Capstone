@@ -20,19 +20,33 @@ Suspense. This project demonstrates, in an unpredictable and mysterious way, the
 
 ## Credits
 Music – Digitalized (Me)
+
 Music – Digitalized: Major Ver. (Me)
+
 Music – Aquarium (Saint-Saens)
+
 Music – In The Hall of the Mountain King (Grieg)
+
 Music – Suspense Music: Seeking The Truth (From Youtube)
+
 Heal Sound: https://www.youtube.com/watch?v=R8ZJztX9Eg8
+
 Walk Sound: https://www.youtube.com/watch?v=0JZudAbCdBg
+
 Typing Sound: https://www.youtube.com/watch?v=1nEihwBTh4E
+
 Spotlight Sound: https://www.youtube.com/watch?v=OpuyYoCskNg
+
 Singing Sound: https://www.youtube.com/watch?v=dXYIomP9mMs
+
 Characters from www.mixamo.com
+
 Particle Pack: https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777
+
 Tools: https://assetstore.unity.com/packages/3d/props/tools/survival-game-tools-139872
+
 Office: https://assetstore.unity.com/packages/templates/packs/snaps-office-pack-137490
+
 
 
 -----------------------------------------------------------------------------------------------------------
